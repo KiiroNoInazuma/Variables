@@ -11,8 +11,9 @@ public class Exercise_1 {
         char chV = 97;
         boolean bl = true;
         boolean blV = false;
+        boolean blV2 = 1 == 1;
         String str = "string";
 
-        System.out.println(b + "\n" + s + "\n" + i + "\n" + l + "\n" + f + "\n" + d + "\n" + ch + "\n" + chV + "\n" + bl + "\n" + bl + "\n" + blV + "\n" + str);
+        System.out.println(b + "\n" + s + "\n" + i + "\n" + l + "\n" + f + "\n" + d + "\n" + ch + "\n" + chV + "\n" + bl + "\n" + bl + "\n" + blV + "\n" + blV2 + "\n" + str);
     }
 }
