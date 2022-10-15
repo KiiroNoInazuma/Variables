@@ -14,6 +14,5 @@ public class Exercise_4 {
         System.out.println("При потери веса в " + weightLossS + " г. спортсмену понадобится " + dayS + " д.");
         System.out.println("В среднем потребуется " + avg + " д.");
 
-
     }
 }
